@@ -4,9 +4,10 @@
 
 ##### PROJECTS
 
-- `react.js` `rails.rb` Wordle Clone: [wordle infinite](https://wordle-infinite.herokuapp.com/)
-- `.js` LinkedIn Clone: [fakedIn](https://github.com/jgrochulski/fakedIn)
+- Wordle Clone: [wordle infinite](https://wordle-infinite.herokuapp.com/) `react.js`, `rails.rb`, `.html`, `.css`
+- LinkedIn Clone: [fakedIn](https://github.com/jgrochulski/fakedIn) `.js`, `db.json`, `.html`, `.css`
 
 ##### CURRENT PROJECT
 
-- `react.js` Chess: [castle-kingside](https://github.com/jgrochulski/castle-kingside)
+- `WIP` Chess: [castle-kingside](https://github.com/jgrochulski/castle-kingside) `react.js`, `rails.rb`, `.html`, `.css`
+
