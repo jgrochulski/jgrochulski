@@ -1,6 +1,6 @@
 ##### BIO
 
-- Skills: `.js`, `.html`, `.css`, `.rb`
+- Skills: `react.js`, `rails.rb`, `.html`, `.css`
 
 ##### PROJECTS
 
