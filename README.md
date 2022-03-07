@@ -1,6 +1,6 @@
 ##### BIO
 
-- Skills: `react.js`, `rails.rb`, `.html`, `.css`
+Just trying to build cool things.
 
 ##### PROJECTS
 
