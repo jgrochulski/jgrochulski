@@ -1,6 +1,6 @@
 ##### BIO
 
-Just trying to build cool things.
+I like to build cool things.
 
 ##### PROJECTS
 
