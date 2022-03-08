@@ -10,7 +10,7 @@ I like to build cool things.
 
 ##### CURRENT PROJECT
 
-- `WIP` Chess: [castle-kingside](https://github.com/jgrochulski/castle-kingside) `react.js`, `rails.rb`, `bcrypt`, `psotgreSQL`, `.html`, `.css`
+- `WIP` Multiplayer Live Chess: [castle-kingside](https://github.com/jgrochulski/castle-kingside) `react.js`, `rails.rb`, `bcrypt`, `psotgreSQL`, `.html`, `.css`
 
 ##### PROJECT DEMOS
 
