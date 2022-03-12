@@ -1,6 +1,6 @@
 ##### BIO
 
-I like to build cool things.
+Structural Engineer turned Software Engineer.
 
 ##### PROJECTS
 
