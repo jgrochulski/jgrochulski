@@ -2,6 +2,8 @@
 
 Structural Engineer turned Software Engineer.
 
+[resume](https://drive.google.com/file/d/1Dl8nzGl_sJrATAnTLyVC042Z5rWb9ujB/view?usp=sharing)
+
 ##### PROJECTS
 
 - Wordle Clone: [wordle infinite](https://wordle-infinite.herokuapp.com/) `react.js`, `rails.rb`, `bcrypt`, `postgreSQL`, `.html`, `.css`
