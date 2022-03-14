@@ -19,4 +19,8 @@ Structural Engineer (B.Sc. Civil Engineering) turned Software Engineer.
 
 - practice DS&A (LeetCode): [leetcode progress](https://github.com/jgrochulski/leetcode) `Node.js`
 - practice OOP testing: [test-driven-OOP-practice](https://github.com/jgrochulski/test-driven-OOP-practice) `Node.js` `jest`
-- learn C++
+
+**FUTURE LEARNING GOALS**
+
+- C++
+- AWS
