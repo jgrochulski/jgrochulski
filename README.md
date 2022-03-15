@@ -8,10 +8,10 @@ Structural Engineer (B.Sc. Civil Engineering) turned Software Engineer. Backgrou
 
 **PROJECTS**
 
-- Multiplayer Live Chess: [castle-kingside](https://github.com/jgrochulski/castle-kingside) `react.js`, `rails.rb`, `bcrypt`, `psotgreSQL`, `.html`, `.css`
-- Wordle Clone: [wordle infinite](https://wordle-infinite.herokuapp.com/) `react.js`, `rails.rb`, `bcrypt`, `postgreSQL`, `.html`, `.css`  
-- LinkedIn Clone: [fakedIn](https://github.com/jgrochulski/fakedIn) `JavaScript`, `db.json`, `.html`, `.css`
-- Auction scraper API: [Bring-a-Scraper](https://rapidapi.com/janekgrochulski/api/bring-a-trailer-scraper) `node.js`, `express.js`, `axios`, `cheerio`, `jQuery`, `psotgreSQL`
+- liveChess: [repo](https://github.com/jgrochulski/castle-kingside) | [demo](https://youtu.be/yMiX-5xFzlU) `react.js`, `rails.rb`, `bcrypt`, `psotgreSQL`, `.html`, `.css`
+- wordle infinite: [repo](https://github.com/jgrochulski/wordle-clone) | [demo](https://youtu.be/SovFHFCMlgQ) | [live](https://wordle-infinite.herokuapp.com/) `react.js`, `rails.rb`, `bcrypt`, `postgreSQL`, `.html`, `.css`
+- FakedIn: [repo](https://github.com/jgrochulski/fakedIn) | [demo](https://youtu.be/Bx_aB9jYigg) `JavaScript`, `db.json`, `.html`, `.css`
+- Bring-a-Scraper: [repo](https://github.com/jgrochulski/scrape-a-trailer) | [live](https://bring-a-scraper.herokuapp.com/bmw) | [RapidAPI](https://rapidapi.com/janekgrochulski/api/bring-a-trailer-scraper) `node.js`, `express.js`, `axios`, `cheerio`, `jQuery`, `psotgreSQL`
 
 **PROJECT DEMOS**
 
