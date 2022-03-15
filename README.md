@@ -4,7 +4,7 @@ Structural Engineer (B.Sc. Civil Engineering) turned Software Engineer. Backgrou
 
 [janek.grochulski@gmail.com](mailto:janek.grochulski@gmail.com)
 
-[resume](https://drive.google.com/file/d/1Dl8nzGl_sJrATAnTLyVC042Z5rWb9ujB/view?usp=sharing)
+**[RESUME](https://drive.google.com/file/d/1Dl8nzGl_sJrATAnTLyVC042Z5rWb9ujB/view?usp=sharing)**
 
 **PROJECTS**
 
@@ -25,4 +25,3 @@ Structural Engineer (B.Sc. Civil Engineering) turned Software Engineer. Backgrou
 **FUTURE LEARNING GOALS**
 
 - C++
-- AWS
