@@ -9,22 +9,8 @@ Structural Engineer (B.Sc. Civil Engineering) turned Software Engineer. Backgrou
 **PROJECTS**
 
 - Multiplayer Live Chess: [castle-kingside](https://github.com/jgrochulski/castle-kingside) `react.js`, `rails.rb`, `bcrypt`, `psotgreSQL`, `.html`, `.css`
-- Wordle Clone: [wordle infinite](https://wordle-infinite.herokuapp.com/) `react.js`, `rails.rb`, `bcrypt`, `postgreSQL`, `.html`, `.css`
-<a href="https://wordle-infinite.herokuapp.com/">
-<img
-  src="/imgs/wordle_preview.png"
-  alt="wordle clone preview image"
-  title="wordle clone preview"
-  style="display: inline-block; width: 300px"></a>
-  
+- Wordle Clone: [wordle infinite](https://wordle-infinite.herokuapp.com/) `react.js`, `rails.rb`, `bcrypt`, `postgreSQL`, `.html`, `.css`  
 - LinkedIn Clone: [fakedIn](https://github.com/jgrochulski/fakedIn) `JavaScript`, `db.json`, `.html`, `.css`
-<a href="https://github.com/jgrochulski/fakedIn">
-<img
-  src="/imgs/fakedin_preview.png"
-  alt="linkedin clone preview image"
-  title="linkedin clone preview"
-  style="display: inline-block; margin: 0 auto; width: 300px"></a>
-  
 - Auction scraper API: [Bring-a-Scraper](https://rapidapi.com/janekgrochulski/api/bring-a-trailer-scraper) `node.js`, `express.js`, `axios`, `cheerio`, `jQuery`, `psotgreSQL`
 
 **PROJECT DEMOS**
