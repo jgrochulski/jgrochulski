@@ -1,6 +1,8 @@
 **BIO**
 
-Structural Engineer (B.Sc. Civil Engineering) turned Software Engineer.
+Structural Engineer (B.Sc. Civil Engineering) turned Software Engineer. Background in Web Dev.
+
+[janek.grochulski@gmail.com](mailto:janek.grochulski@gmail.com)
 
 [resume](https://drive.google.com/file/d/1Dl8nzGl_sJrATAnTLyVC042Z5rWb9ujB/view?usp=sharing)
 
