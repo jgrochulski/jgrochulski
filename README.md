@@ -1,4 +1,4 @@
-## Jan Grochulski ##
+### INFO ###
 
 Structural Engineer (B.Sc. Civil Engineering) turned Software Engineer. Background in Web Dev.
 
