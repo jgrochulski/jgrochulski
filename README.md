@@ -13,12 +13,12 @@ Structural Engineer (B.Sc. Civil Engineering) turned Software Engineer. Backgrou
 - **FakedIn:** [repo](https://github.com/jgrochulski/fakedIn) | [demo](https://youtu.be/Bx_aB9jYigg) `JavaScript`, `db.json`, `.html`, `.css`
 - **Bring-a-Scraper:** [repo](https://github.com/jgrochulski/scrape-a-trailer) | [live](https://bring-a-scraper.herokuapp.com/bmw) | [RapidAPI](https://rapidapi.com/janekgrochulski/api/bring-a-trailer-scraper) `node.js`, `express.js`, `axios`, `cheerio`, `jQuery`, `psotgreSQL`
 
-### CURRENT LEARNING ###
+### CURRENTLY LEARNING ###
 
 - DS&A (LeetCode): [leetcode progress](https://github.com/jgrochulski/leetcode) `Node.js`
 - OOP & testing: [test-driven-OOP-practice](https://github.com/jgrochulski/test-driven-OOP-practice) `Node.js` `jest`
 
-### CURRENT READING ###
+### CURRENTLY READING ###
 
 - The Brothers Kamazov - Fyodor Dostoevsky
 - Mathematics for Computer Science [6.024J] 
