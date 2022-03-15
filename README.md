@@ -15,9 +15,16 @@ Structural Engineer (B.Sc. Civil Engineering) turned Software Engineer. Backgrou
   src="/imgs/wordle_preview.png"
   alt="wordle clone preview image"
   title="wordle clone preview"
-  style="display: inline-block; margin: 0 auto; width: 300px"></a>
+  style="display: inline-block; width: 300px"></a>
   
 - LinkedIn Clone: [fakedIn](https://github.com/jgrochulski/fakedIn) `JavaScript`, `db.json`, `.html`, `.css`
+<a href="https://github.com/jgrochulski/fakedIn">
+<img
+  src="/imgs/fakedin_preview.png"
+  alt="linkedin clone preview image"
+  title="linkedin clone preview"
+  style="display: inline-block; margin: 0 auto; width: 300px"></a>
+  
 - Auction scraper API: [Bring-a-Scraper](https://rapidapi.com/janekgrochulski/api/bring-a-trailer-scraper) `node.js`, `express.js`, `axios`, `cheerio`, `jQuery`, `psotgreSQL`
 
 **PROJECT DEMOS**
