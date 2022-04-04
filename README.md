@@ -17,6 +17,7 @@ Structural Engineer (B.Sc. Civil Engineering) turned Software Engineer. Backgrou
 
 - DS&A (LeetCode): [leetcode progress](https://github.com/jgrochulski/leetcode) `Node.js`
 - OOP & testing: [test-driven-OOP-practice](https://github.com/jgrochulski/test-driven-OOP-practice) `Node.js` `jest`
+- Java
 
 ### CURRENTLY READING ###
 
