@@ -1,4 +1,4 @@
-### INFO ###
+<!-- ### INFO ###
 
 Structural Engineer (B.Sc. Civil Engineering) turned Software Engineer. Background in Web Dev.
 
@@ -23,3 +23,4 @@ Structural Engineer (B.Sc. Civil Engineering) turned Software Engineer. Backgrou
 
 - The Brothers Kamazov - Fyodor Dostoevsky
 - Mathematics for Computer Science [6.024J] 
+ -->
