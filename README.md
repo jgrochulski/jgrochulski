@@ -19,8 +19,12 @@ Structural Engineer (B.Sc. Civil Engineering) turned Software Engineer. Backgrou
 - OOP & testing: [test-driven-OOP-practice](https://github.com/jgrochulski/test-driven-OOP-practice) `Node.js` `jest`
 - Java
 
+
+- Mathematics for Computer Science [6.024J] 
+
+ -->
+
 ### CURRENTLY READING ###
 
-- The Brothers Kamazov - Fyodor Dostoevsky
-- Mathematics for Computer Science [6.024J] 
- -->
+- Mythologies - Roland Barthes
+
